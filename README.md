@@ -1,6 +1,14 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+## 💎 Funcionalidades do Desafio Implementadas
+- Este projeto foi desenvolvido utilizando conhecimentos fundamentais de C#, *como manipulação de listas, controle de fluxo com condicionais e laços*, além da interação com o usuário via terminal.
+- Para implementar a funcionalidade de adicionar veículos, utilizamos a classe `List<string>` para armazenar as placas, e o método `Console.ReadLine()` para capturar a entrada do usuário.
+- A remoção de veículos envolveu o uso de métodos como `Any()` para verificar a presença de um item na lista e a remoção com `Remove()`.
+- Além disso, para calcular o valor a ser pago pelo estacionamento, utilizamos operações matemáticas simples e convertemos entradas do usuário com `int.Parse()`.
+- A listagem dos veículos estacionados foi realizada através de um *laço foreach*, percorrendo a lista e exibindo as placas no terminal.
+- Esse desafio aplicou conceitos de programação orientada a objetos e manipulação de dados em C#, além de proporcionar uma experiência prática com a criação de um sistema interativo no console.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
@@ -36,3 +44,12 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+
+## Happy coding! 👩🏽‍💻 
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datavizwithfer/) 
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DataVizWithFer)
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</div>
